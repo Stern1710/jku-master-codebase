@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Functional Programming
+*.prp
+*.prj
+Clean System Files/
+*.exe
