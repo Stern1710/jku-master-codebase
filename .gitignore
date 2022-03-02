@@ -133,3 +133,6 @@ dmypy.json
 *.prj
 Clean System Files/
 *.exe
+
+# Java
+Data_Warehousing/data
