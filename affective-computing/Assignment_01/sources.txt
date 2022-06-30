@@ -1,0 +1,48 @@
+Fear
+01_low.jpg: https://imgflip.com/memetemplate/137965296/Afraid-Black-Guy
+02_low.jpg: https://extra.ie/2021/07/14/sport/mma/conor-mcgregor-injury-celebrated-reaction
+03_low.jpg: https://www.deseret.com/2013/12/2/20459578/after-boy-mauled-balkan-animal-cruelty-in-focus
+01_high.jpg: https://thefw.com/scary-maze-game-reactions/
+02_high.jpg: https://www.prosieben.at/tv/das-duell-um-die-welt-joko-gegen-klaas/videos/51-klaas-usa-heissluftballon-ropeswing-clip
+03_high.jpg: https://www.medicaldaily.com/why-were-scared-spiders-and-cause-other-irrational-fears-315494
+
+Sad
+01_low.jpg: https://www.newyorker.com/science/lab-notes/why-a-must-win-situation-is-a-losing-one
+02_low.jpg: https://www.reuters.com/news/picture/sad-fans-idJPRTR2G7CC
+03_low.jpg: https://www.reuters.com/news/picture/sad-fans-idJPRTR2G7CC
+01_high.jpg: https://www.pinterest.com/pin/416231190534776973/
+02_high.jpg: https://www.pinterest.es/pin/468092954998034845
+03_high.jpg: https://metro.co.uk/2014/05/06/the-crying-game-crying-professional-footballers-4719368/
+
+Anger
+01_low.jpg: https://www.squawka.com/en/tuchel-understand-fans-permanently-angry-neymar/
+02_low.jpg: https://www.bodylanguagesuccess.com/2016/03/nonverbal-communication-analysis-no_25.html
+03_low.jpg: https://thehill.com/opinion/judiciary/538725-impeachment-trial-sacrifices-our-values-just-to-sack-donald-trump
+01_high.jpg: https://www.planetfootball.com/nostalgia/wayne-rooney-manchester-united-angry-tackles-red-card-superpower/
+02_high.jpg: https://daughterofthirteen.tumblr.com/post/89546474236/angry-manuel-neuer
+03_high.jpg: https://www.esquire.com/uk/culture/news/a16402/gordon-ramsay-instagram/
+
+Disgust
+01_low.jpg: https://www.mirror.co.uk/news/weird-news/world-ready-marmite-japanese-try-5716218
+02_low.jpg: https://wechoiceblogger.com/gordon-ramsays-24-hours-to-hell-and-back-10-worst-most-disgusting-kitchens/
+03_low.jpg: https://www.pinterest.com/pin/689965605402448824/
+01_high.jpg: https://www.dailymail.co.uk/femail/article-3085068/The-real-Marmite-effect-Man-captures-reactions-Japanese-people-eat-savoury-spread-time.html
+02_high.jpg: https://www.thetravel.com/things-bear-grylls-had-to-do-in-the-wild-that-he-wasnt-proud-of/
+03_high.jpg: https://www.prosieben.at/tv/das-duell-um-die-welt-joko-gegen-klaas/videos/51-joko-china-eigenblutwurst-verzehren-clip
+
+Happy
+
+01_low.jpg: https://www.google.com/url?sa=i&url=https%3A%2F%2Frp-online.de%2Fsport%2Folympia-sommer%2Fdeutschland%2Ftokio-2021-gold-fuer-deutschland-alexander-zverev-ist-olympiasieger-im-tennis_aid-61891945&psig=AOvVaw2JzJdSYBD4kxajsTEmg8xY&ust=1648626676465000&source=images&cd=vfe&ved=0CAwQjhxqFwoTCKipp5Tr6vYCFQAAAAAdAAAAABAD
+02_low.jpg: https://kaernten.orf.at/stories/3142818/
+03_low.jpg: https://www.griechenland.net/nachrichten/sport/29632-gl%C3%BCckw%C3%BCnsche-f%C3%BCr-griechenlands-erste-olympia-goldmedaille
+01_high.jpg: https://www.businessinsider.com/why-happy-people-are-better-leaders-2015-8
+02_high.jpg: https://kaernten.orf.at/stories/3142818/
+03_high.jpg: https://www.grenzecho.net/59827/artikel/2021-08-01/gold-geschafft-alexander-zverev-kurt-sich-zum-olympiasieger
+
+Surprise
+01_high.jpg: https://www.kleinezeitung.at/sport/wintersport/skialpin/5768405/Abfahrt-in-Saalbach_Dressen-siegte_Vielleicht-gibt-mir-der
+02_high.jpg:  https://www.insider.com/olympics-runner-what-the-fuck-after-winning-tokyo-olympic-silver-2021-8
+03_high.jpg: https://fadeawayworld.net/nba-media/anthony-davis-shares-key-to-his-improved-play-looking-at-myself-in-the-mirror-and-seeing-how-i-could-be-better
+01_low.jpg: https://www.express.co.uk/sport/ufc/926272/Conor-McGregor-Frankie-Edgar-Twitter-Taunt-Manager-Response
+02_low.jpg: https://www.sportsjoe.ie/mma/max-holloway-appearance-gave-conor-mcgregor-surprise-ufc-257-223389
+03_low.jpg: https://fansided.com/2021/10/06/dana-white-isnt-surprised-bkfc-fighter-death-praises-ufc-fighter-safety-video/

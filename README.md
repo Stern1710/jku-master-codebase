@@ -6,3 +6,7 @@
 - Functional Programming
 - Visual Analytics exercise
 - Probabilistic Models exercise
+- Statistical Principles of Data Science Project - Australia Weather Data
+- Statistical Principles of Data Science exercise
+- Affective Computing
+- Big Data Management and Processing
