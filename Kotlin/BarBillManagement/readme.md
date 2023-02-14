@@ -1,0 +1,9 @@
+# Project BarBillManagement
+
+This is a very simple TornadoFX-based GUI program. It can save bar tabs for given customers and save them in XML format to a file. It also features a lock screen, such that one can leave the program unattended and not fearing that someone manipulated the data via the GUI.
+
+All needed libraries are included via gradle and will be downloaded on the first run. Thanks Gradle. (+ I also learned something about gradle).
+
+I very much enjoyed the enforced null checks throughout my coding, which often prevented me from doing stupid things. It sadly is a feature that is not directly visible in the code, but was one I took very much advantage off during the time of coding. Also the DSLs of TornadoFX and the XML-library were very interessting to use. However, the choice of the GUI framework makes it feel like I did not have the chance to use all too many Kotlin features on my own. Eventhough I certainly used the integraded DSL, companion objects, init blocks, data classes and such. Maybe with another project, this could been done more to the extreme, be it in a sensefull way or just to use the language features without any real point.
+
+As I had zero experience with TornadoFX and only very limited knowledge in JavaFX as well, this project took me way too much time (more than all three homeworks together thanks to my stupidity). I am not 100% sure that everyting works, but personally I am happy that XML de-serialisation works better than expected and that the writing to files itself is such an comfortable task. Also I am not too confident that my class/package seperation is the best ever. Just wanted to be open about it.

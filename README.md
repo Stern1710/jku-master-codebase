@@ -7,6 +7,8 @@
 - Big Data Management and Processing
 - Data Warehousing
 - Functional Programming
+- Kotlin
 - Probabilistic Models exercise
+- Rust
 - Statistical Principles of Data Science exercise
 - Visual Analytics exercise

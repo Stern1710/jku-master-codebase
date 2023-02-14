@@ -136,3 +136,17 @@ Clean System Files/
 
 # Java
 Data_Warehousing/data
+
+# Ingore .prop files in Kotlin homework 2
+Kotlin/**/out
+Kotlin/Homework02/**/*.prop
+
+Kotlin/BarBillManagement/data
+Kotlin/BarBillManagement/build
+Kotlin/BarBillManagement/.gradle
+
+Kotlin/CodingTester/build
+Kotlin/CodingTester/.gradle
+
+# Ignore Rust build files
+target/
