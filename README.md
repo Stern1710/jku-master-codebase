@@ -8,6 +8,7 @@
 - Data Warehousing
 - Functional Programming
 - Kotlin
+- Missing Semester
 - Probabilistic Models exercise
 - Rust
 - Statistical Principles of Data Science exercise
