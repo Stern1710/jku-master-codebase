@@ -7,6 +7,7 @@
 - Big Data Management and Processing
 - Data Warehousing
 - Functional Programming
+- Graph Databases
 - Kotlin
 - Missing Semester
 - Probabilistic Models exercise
