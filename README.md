@@ -14,3 +14,5 @@
 - Rust
 - Statistical Principles of Data Science exercise
 - Visual Analytics exercise
+
+As a special bonus, it features the code of my master thesis in the appropriatly labelled `Master_Thesis` directory.

@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\Git_Projects\\master-thesis\\Database_Coding\\TemplateDB\\TemplateDB.sqlproj": {}
+  },
+  "projects": {
+    "d:\\Git_Projects\\master-thesis\\Database_Coding\\TemplateDB\\TemplateDB.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\Git_Projects\\master-thesis\\Database_Coding\\TemplateDB\\TemplateDB.sqlproj",
+        "projectName": "TemplateDB",
+        "projectPath": "d:\\Git_Projects\\master-thesis\\Database_Coding\\TemplateDB\\TemplateDB.sqlproj",
+        "packagesPath": "C:\\Users\\Kath\\.nuget\\packages\\",
+        "outputPath": "d:\\Git_Projects\\master-thesis\\Database_Coding\\TemplateDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Kath\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "noWarn": [
+            "NU5128"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

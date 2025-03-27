@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/C2KHOhMhZE=",
+  "success": true,
+  "projectFilePath": "d:\\Git_Projects\\master-thesis\\Database_Coding\\MinistryUniversityDWH\\MinistryUniversityDWH.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kath\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Kath\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

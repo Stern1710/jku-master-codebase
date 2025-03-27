@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CqDVr8nziKM=",
+  "success": true,
+  "projectFilePath": "d:\\Git_Projects\\master-thesis\\Database_Coding\\TUGraz-Student-System\\TUGraz-Student-System.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kath\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\Kath\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

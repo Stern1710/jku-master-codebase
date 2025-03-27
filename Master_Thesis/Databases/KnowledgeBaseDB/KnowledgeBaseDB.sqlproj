@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build">
+  <Sdk Name="Microsoft.Build.Sql" Version="0.1.12-preview" />
+  <PropertyGroup>
+    <Name>KnowledgeBaseDB</Name>
+    <ProjectGuid>{4B32842D-9C3D-48B7-B371-8F946550383D}</ProjectGuid>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
+    <ModelCollation>1033, CI</ModelCollation>
+  </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Condition" />
+    <Folder Include="FillOrder" />
+    <Folder Include="Join" />
+    <Folder Include="LayoutInformation" />
+    <Folder Include="Staging" />
+    <Folder Include="TableSelect" />
+    <Folder Include="Transformation" />
+  </ItemGroup>
+  <Target Name="BeforeBuild">
+    <Delete Files="$(BaseIntermediateOutputPath)\project.assets.json" />
+  </Target>
+</Project>

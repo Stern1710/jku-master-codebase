@@ -1,0 +1,10 @@
+d:\Git_Projects\master-thesis\Coding\MinistryUniversityDM\bin\Debug\MinistryUniversityDM.dacpac
+d:\Git_Projects\master-thesis\Coding\MinistryUniversityDM\bin\Debug\MinistryUniversityDM.dll
+d:\Git_Projects\master-thesis\Coding\MinistryUniversityDM\bin\Debug\MinistryUniversityDM.pdb
+d:\Git_Projects\master-thesis\Coding\MinistryUniversityDM\obj\Debug\MinistryUniversityDM.sqlproj.AssemblyReference.cache
+d:\Git_Projects\master-thesis\Coding\MinistryUniversityDM\obj\Debug\Model.xml
+d:\Git_Projects\master-thesis\Coding\MinistryUniversityDM\obj\Debug\refactor.xml
+d:\Git_Projects\master-thesis\Coding\MinistryUniversityDM\obj\Debug\postdeploy.sql
+d:\Git_Projects\master-thesis\Coding\MinistryUniversityDM\obj\Debug\predeploy.sql
+d:\Git_Projects\master-thesis\Coding\MinistryUniversityDM\obj\Debug\MinistryUniversityDM.dll
+d:\Git_Projects\master-thesis\Coding\MinistryUniversityDM\obj\Debug\MinistryUniversityDM.pdb
